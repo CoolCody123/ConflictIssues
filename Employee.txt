@@ -1,1 +1,4 @@
-
+class Employee{
+   int eid=101;
+   String desg="software eng";
+}
