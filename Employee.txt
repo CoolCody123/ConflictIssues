@@ -1,6 +1,9 @@
+
 class Employye{
        int eid=101;
        String ename="scott";
       double salary=45000.00;
+      String desg="software eng";
 
 }
+
